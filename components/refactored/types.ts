@@ -119,3 +119,9 @@ export interface FreehandLineItem {
     scaleY?: number;
     rotation?: number;
 }
+
+export interface CanvasConfig {
+    width: number;
+    height: number;
+    name: string;
+}

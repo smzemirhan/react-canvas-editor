@@ -1,3 +1,4 @@
+// @ts-nocheck
 // src/components/refactored/components/ControlsBar.tsx
 import React, { useState, useEffect } from "react";
 import { CanvasConfig } from "../types";

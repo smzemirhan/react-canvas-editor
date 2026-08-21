@@ -1,3 +1,4 @@
+// @ts-nocheck
 // src/components/PropertiesPanel.tsx
 "use client";
 

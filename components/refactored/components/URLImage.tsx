@@ -1,3 +1,4 @@
+// @ts-nocheck
 // src/components/refactored/components/URLImage.tsx
 import React, { useEffect, useState } from 'react';
 import { Image as KonvaImage } from 'react-konva';

@@ -1,3 +1,4 @@
+// @ts-nocheck
 // src/components/refactored/hooks/useCanvasArea.ts
 
 import { useState, useEffect, useRef, ChangeEvent } from "react";

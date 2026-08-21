@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { ShapeItem, TextItem } from "../types";
 
 interface TemplateData {

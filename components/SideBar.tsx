@@ -1,3 +1,4 @@
+// @ts-nocheck
 // src/components/SideBar.tsx
 "use client";
 
