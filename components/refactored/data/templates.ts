@@ -150,7 +150,7 @@ export const TEMPLATES: Record<string, TemplateData> = {
             }),
             baseText({
                 id: "cv-side-email",
-                text: "emirhan@gmail.com",
+                text: "epostan@gmail.com",
                 x: 52,
                 y: 222,
                 fontSize: 13,
@@ -200,7 +200,7 @@ export const TEMPLATES: Record<string, TemplateData> = {
             }),
             baseText({
                 id: "cv-name",
-                text: "EMİRHAN SEMİZOGLU",
+                text: "İSİM SOYİSİM",
                 x: 248,
                 y: 48,
                 fontSize: 28,
@@ -210,7 +210,7 @@ export const TEMPLATES: Record<string, TemplateData> = {
             }),
             baseText({
                 id: "cv-role",
-                text: "Frontend Geliştirici · UI Odaklı",
+                text: "Backend-Frontend Geliştirici · UI Odaklı",
                 x: 248,
                 y: 88,
                 fontSize: 15,
@@ -250,7 +250,7 @@ export const TEMPLATES: Record<string, TemplateData> = {
             }),
             baseText({
                 id: "cv-exp-b",
-                text: "Staj · Mini-Canva & AI destekli web projeleri\nFreelance · Landing page ve marka kimliği",
+                text: "Staj · React-Canva & AI destekli web projeleri\nFreelance · Landing page ve marka kimliği",
                 x: 248,
                 y: 222,
                 fontSize: 13,
@@ -437,7 +437,7 @@ export const TEMPLATES: Record<string, TemplateData> = {
             }),
             baseText({
                 id: "afis-cta-t",
-                text: "ÜCRETSİZ KAYIT — mini-canva.dev/zirve",
+                text: "ÜCRETSİZ KAYIT — react-canvas.dev/zirve",
                 x: 88,
                 y: 486,
                 fontSize: 15,
@@ -676,7 +676,7 @@ export const TEMPLATES: Record<string, TemplateData> = {
         texts: [
             baseText({
                 id: "ig-user",
-                text: "mini.canva.studio",
+                text: "react.canvas.studio",
                 x: 208,
                 y: 58,
                 fontSize: 14,
@@ -708,7 +708,7 @@ export const TEMPLATES: Record<string, TemplateData> = {
             }),
             baseText({
                 id: "ig-tags",
-                text: "#tasarım #miniCanva #2026",
+                text: "#tasarım #ReactCanvas #2026",
                 x: 168,
                 y: 420,
                 fontSize: 12,
@@ -799,7 +799,7 @@ export const TEMPLATES: Record<string, TemplateData> = {
         texts: [
             baseText({
                 id: "sunum-brand",
-                text: "MINI-CANVA",
+                text: "REACT-CANVAS",
                 x: 52,
                 y: 56,
                 fontSize: 11,
@@ -849,7 +849,7 @@ export const TEMPLATES: Record<string, TemplateData> = {
             }),
             baseText({
                 id: "sunum-author",
-                text: "Emirhan · Yazılım Ekibi",
+                text: "Mehmet · Yazılım Ekibi",
                 x: 268,
                 y: 320,
                 fontSize: 16,
@@ -1010,7 +1010,7 @@ export const TEMPLATES: Record<string, TemplateData> = {
             }),
             baseText({
                 id: "menu-foot",
-                text: "Wi-Fi şifresi: mini-canva-2026",
+                text: "Wi-Fi şifresi: react-canvas-2026",
                 x: 100,
                 y: 420,
                 fontSize: 12,
@@ -1383,7 +1383,7 @@ export const TEMPLATES: Record<string, TemplateData> = {
             }),
             baseText({
                 id: "mot-author",
-                text: "— Mini-Canva Ekibi",
+                text: "— React-Canvas Ekibi",
                 x: 108,
                 y: 300,
                 fontSize: 14,
